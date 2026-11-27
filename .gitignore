@@ -1,0 +1,9 @@
+# data
+data
+data/*
+
+# python
+__pycache__
+
+# vscode
+.vscode
